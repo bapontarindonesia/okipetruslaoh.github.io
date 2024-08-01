@@ -2,7 +2,7 @@
 
 .jumbotron {
 padding-top: 6rem;
-background-color: rgb(188, 230, 250);
+background-color: var(--bs-body-bg);
 }
 #Gallery {
     background-color: rgb(188, 230, 250);
